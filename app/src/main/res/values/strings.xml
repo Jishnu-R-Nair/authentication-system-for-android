@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lock</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">0</string>
+    <string name="button2">0</string>
+    <string name="button3">0</string>
+    <string name="button4">0</string>
+    <string name="Heading">Draw your pattern</string>
+    <string name="title_activity_display_message">Login is ....</string>
+
+</resources>
